@@ -21,7 +21,7 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
-	Demo Images:
+	Demo Images: d
 		Michael Domaradzki (md.photomerchant.net)
 
 	Icons:
